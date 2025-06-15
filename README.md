@@ -54,8 +54,8 @@
 
 ### 📬 Contact & Support
 
-- **Telegram:** [@usadatabot](https://t.me/usadatabot)
-- **Support:** Message `/help` inside the bot or contact our support team.
+- **Telegram:** [@usadatabot](https://t.me/usadatabot?start=a)
+- **Support:** Message `/start` inside the bot or contact our support team.
 
 ---
 
